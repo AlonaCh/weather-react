@@ -11,7 +11,7 @@ root.render(
     <Weather />
     <div className="SearchEngine">
       <a
-        href="https://fabulous-selkie-61563c.netlify.app"
+        href="https://github.com/AlonaCh/weather-react.git"
         target="_blank"
         rel="noreferrer"
       >
