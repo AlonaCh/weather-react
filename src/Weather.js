@@ -40,7 +40,7 @@ export default function Weather() {
 
   if (loaded) {
     return (
-      <div>
+      <div className="SearchEngine">
         {form}
         <ul>
           <li>Temperature: {Math.round(weather.temperature)} ℃</li>

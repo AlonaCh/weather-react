@@ -9,7 +9,7 @@ root.render(
   <React.StrictMode>
     <h1>WeatherReact</h1>
     <Weather />
-    <div>
+    <div className="SearchEngine">
       <a
         href="https://fabulous-selkie-61563c.netlify.app"
         target="_blank"
