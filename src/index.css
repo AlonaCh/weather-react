@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.SearchEngine {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+li {
+  text-align: center;
+}
