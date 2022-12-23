@@ -23,6 +23,9 @@ h1 {
   font-family: sans-serif;
 }
 
-li {
+ul {
+  text-align: center;
+}
+form {
   text-align: center;
 }
