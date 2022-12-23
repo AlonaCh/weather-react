@@ -9,6 +9,10 @@ root.render(
   <React.StrictMode>
     <h1>WeatherReact</h1>
     <Weather />
+    <div>
+      <a href="https://fabulous-selkie-61563c.netlify.app">Open-source code</a>{" "}
+      by Alona Chubenko
+    </div>
   </React.StrictMode>
 );
 
